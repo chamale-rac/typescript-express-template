@@ -2,13 +2,13 @@
   "name": "rest-api-learn",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.js",  
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chamale-rac/rest-api-learn.git"
+    "url": "git+https://github.com/chamale-rac/typescript-express-template.git"
   },
   "keywords": [],
   "author": "",
